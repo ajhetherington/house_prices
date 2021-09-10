@@ -6,3 +6,6 @@ This projects acts as a demonstration of my Data Science skills and ability to w
 regional disparity in house prices, with relation to a number of metrics such as regional salary.
 
 The project will be expanded to include some regression analyis through an r markdown aswell as use machine learning methods to predict house prices in the future.
+
+
+### Clicking on Housing.ipynb should render an online jupyter markdown
